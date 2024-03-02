@@ -267,3 +267,230 @@ flex-shrink: 0;
     font-weight: 800;
     margin-top: 133px;
 }
+.fourth-section-div h3{
+    color: #131318;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+
+}
+.fourth-section-div p{
+    color: #131318B3;
+text-align: center;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+}
+.fourth-section-div{
+    gap: 24px;
+}
+.card-1{
+    width: 573px;
+height: 284px;
+flex-shrink: 0;
+border-radius: 16px;
+border: 1px solid #FBB56333;
+background: #FBB5630D;
+padding-left: 32px;
+padding-top: 32px;
+}
+.card-1 h3{
+    color: #131318;
+font-size: 24px;
+font-weight: 800;
+
+}
+.card-1 p{
+    color: #5A5A5D;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+width: 486px;
+}
+.card-2{
+    width: 573px;
+height: 284px;
+flex-shrink: 0;
+border-radius: 16px;
+border: 1px solid #29CEF633;
+background: #29CEF60D;
+padding-left: 32px;
+padding-top: 32px;
+}
+.card-2 h3{
+    color: #131318;
+    font-size: 24px;
+    font-weight: 800;
+}
+.card-2 p{
+    color: #5A5A5D;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    width: 486px; 
+}
+.card{
+    display: flex;
+    gap: 24px;
+    margin-top: 48px;
+    margin-left: 135px;
+}
+.card-3{
+    width: 573px;
+    height: 284px;
+    flex-shrink: 0;
+    border-radius: 16px;
+    border: 1px solid #E9444433;
+    background: #E944440D;
+    padding-left: 32px;
+    padding-top: 32px;
+}
+.card-3 h3{
+    color: #131318;
+    font-size: 24px;
+    font-weight: 800;
+}
+.card-3 p{
+    color: #5A5A5D;
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    width: 486px; 
+}
+.new-card{
+    margin-top: 24px;
+    margin-left: 433px;
+}
+.deal h3{
+    color: #131318;
+text-align: center;
+font-size: 40px;
+font-weight: 800;
+
+}
+.deal p{
+    width: 643px;
+    color: #131318B3;
+font-size: 16px;
+font-weight: 400;
+line-height: 26px;
+margin-left: 398px;
+}
+.banner{
+background-image: url(../Images/Group\ 39.png);
+background-repeat: no-repeat;
+width: 1170px;
+height: 500px;
+flex-shrink: 0;
+border-radius: 16px;
+margin-left: 135px;
+}
+.banner-div i{
+    padding-top: 16px;
+
+}
+.banner-div p{
+    color: #5A5A5D;
+font-size: 16px;
+font-weight: 400;
+}
+.banner-div{
+    display: flex;
+    gap: 18px;
+  
+}
+.banner-card{
+    width: 579px;
+height: 389px;
+flex-shrink: 0;
+border-radius: 16px;
+border: 2px solid #FFF;
+background: #FFFFFFCC;
+margin-left: 530px;
+padding-left: 50px;
+
+}
+
+.exclusive h3{
+    color: #131318;
+font-size: 24px;
+font-weight: 800;
+}
+.exclusive p{
+    width: 452px;
+    color: #5A5A5D;
+font-size: 16px;
+margin-top: 16px;
+font-weight: 400;
+line-height: 26px; 
+}
+.exclusive-span{
+    color: #FF5400;
+font-size: 20px;
+font-weight: 800;
+}
+.exclusive-btn{
+    width: 150px;
+height: 52px;
+border-radius: 8px;
+background: #FF5400;
+color: #FFF;
+text-align: center;
+font-size: 20px;
+font-weight: 800;
+
+}
+.banner,.banner-card{
+   padding-top: 50px;
+}
+.banner-1{
+    background-image: url(../Images/Group\ 40.png);
+    background-repeat: no-repeat;
+    width: 1170px;
+height: 500px;
+flex-shrink: 0;
+border-radius: 16px;
+margin-left: 135px;
+
+}
+.banner-div-1 i{
+    padding-top: 16px;
+
+}
+.banner-div-1 p{
+    color: #5A5A5D;
+font-size: 16px;
+font-weight: 400;
+}
+.banner-div-1{
+    display: flex;
+    gap: 18px;
+  
+}
+.banner-card-1{
+    width: 579px;
+height: 389px;
+flex-shrink: 0;
+border-radius: 16px;
+border: 2px solid #FFF;
+background: #FFFFFFCC;
+margin-left: 56px;
+padding-left: 50px; 
+
+}
+.banner-1,.banner-card-1{
+    padding-top: 50px;
+}
+.package-button{
+    width: 210px;
+height: 52px;
+border-radius: 8px;
+background: #FF5400;
+color: #FFF;
+font-size: 20px;
+margin-top: 48px;
+margin-left: 535px;
+padding: 14px 21px;
+
+
+}
