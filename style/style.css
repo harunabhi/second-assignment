@@ -7,6 +7,9 @@
   font-style: normal;
 }
 }
+body:hover{
+    cursor: copy;
+}
 .header{
     width: 1440px;
 /* height: 6940px; */
@@ -734,5 +737,113 @@ font-size: 16px;
 font-weight: 300;
 padding-left: 700px;
 
+}
+@media screen and (max-width:576px){
+    .header{
+        width: 576px;
+    }
+    .first-nav {
+        flex-direction: column; 
+        align-items: flex-start; 
+        gap: 5px;
+    }
+    .first-section{
+        width: auto;
+        height: auto%;
+    }
+    .last-div-1{
+        display: flex;
+flex-direction: row;
+    }
+    .second-div{
+        flex-direction: column;
+        gap: 20px;
+      
+    }
+    .second-img img{
+        width: auto;
+        height: auto;
+        padding: 0px;
+        margin: 0px;
+    }
+    .third-section-h3{
+     margin: 0px;
+     padding: 0px;
+    }
+    .third-section-p{
+        margin: 0px;
+        padding: 0px;
+    }
+    .god-grid-1{
+   display: grid;
+   grid-template-rows: repeat(1,1fr);
+}
+.god-grid-2{
+    display: grid;
+    grid-template-rows: repeat(1,1fr);
+ }
+ .fourth-section-div h3 p{
+    margin: 0px;
+    padding: 0px;
+ }
+ .card{
+    display: grid;
+    grid-template-rows:repeat(1,1fr) ;
+    margin: 0px;
+    padding: 0px;
+    height: auto;
+    width: auto;
+ }
+ .card-2{
+    margin: 0px;
+    padding: 0px;
+    height: auto;
+    width: auto;
+ }
+ .card-3 h3 p{
+    width: auto;
+    margin: 0px;
+    padding: 0px;
+ }
+ .deal h3 p{
+    margin: 0px;
+    padding: 0px;
+ }
+ .banner-div{
+    display: grid;
+    grid-template-rows: repeat(1,1fr);
+    width: auto;
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+ }
+ .fifth-div{
+   display: grid;
+   grid-template-rows: repeat(1,1fr);
+ }
+ .news-letter-div{
+    width: auto;
+    height: auto;
+    margin: 0px;
+    padding: 0px;
+ }
+ .news-letter{
+    display: grid;
+    grid-template-rows: repeat(1,1fr);
+    gap: 20px;
+ }
+ .dear h3  p{
+    margin: 0;
+    padding: 0;
+    width: auto;
+    align-items: flex-start;
+    justify-content: start;
+    text-align: start;
+ }
+ .banner{
+    width: auto;
+    height: auto;
+
+ }
 }
 
